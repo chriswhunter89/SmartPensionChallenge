@@ -1,7 +1,7 @@
 # SmartPension Challenge
 
 ## About
-Welcome to my repo for the SmartPension Chellenge repository. This repositiory contains all the code files & resources required to complete the challenge. Please refer to `SP Test - Ruby.pdf` document within the `sp_challenge_details` folder for full details of the challenge.
+Welcome to my repo for the SmartPensionChallenge repository. This repositiory contains all the code files & resources required to complete the challenge. Please refer to `SP Test - Ruby.pdf` document within the `sp_challenge_details` folder for full details of the challenge.
 
 ## Set-up
 
