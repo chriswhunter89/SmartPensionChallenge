@@ -1,15 +1,15 @@
 # SmartPension Challenge
 
 ## About
-Welcome to my repo for the SmartPension Chellenge repository. This repositiory contains all the code files & resources required to complete the challenge. Please review to `SP Test - Ruby.pdf` document within the `sp_challenge_details` folder for full details of the challenge.
+Welcome to my repo for the SmartPension Chellenge repository. This repositiory contains all the code files & resources required to complete the challenge. Please refer to `SP Test - Ruby.pdf` document within the `sp_challenge_details` folder for full details of the challenge.
 
 ## Set-up
 
 - Clone repository.
-- Open terminal and navigate into SmartPensionChallenge folder using `cd`.
-- Run log_script.rb by typing `ruby log_script.rb` in the terminal.
+- Open terminal and navigate into SmartPensionChallenge directory using `cd`.
+- Run log_script.rb by calling `ruby log_script.rb` in the terminal.
 - At the prompt, please enter `webserver.log`.
-  ** Please note - if running an alternative logfile, please copy file into SmartPensionChallenge folder and enter name of file i.e `new_file.log` a the prompt.
+  ** Please note - if running an alternative logfile, please copy file into SmartPensionChallenge folder and enter name of file i.e `new_file.log` at the prompt.
 
 ## Tests
 
@@ -18,13 +18,13 @@ Welcome to my repo for the SmartPension Chellenge repository. This repositiory c
 - Call `rspec` command to run all tests.
 
 The following three tests have been scripted:
-1. Test to chech parse method has converted data into correct format for querying.
+1. Test to check parse method has converted data into correct hash format for querying.
 2. Test to run #page_views method against sample logfile and get expected output.
 3. Test to run #unique_page_views method against sample logfile and get expected output.
 
 ## Features & Functions
 
-- When the script is ran using the process above, program will print list of all web pages along with their page visit count and unique page visit count.
+- When the script is ran using the process above, program will parse the data within the logfile and print list of all web pages along with their page view count and unique page view count.
 
 ### LogData:
 
